@@ -5,12 +5,19 @@ Welcome to the **Major Projects** repository!
 This collection showcases significant projects that demonstrate **advanced skills and problem-solving abilities**.  
 Each project includes **detailed documentation** to facilitate learning, replication, and improvement.  
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 ---
 - **Description:** Developed a chatbot using Natural Language Processing (NLP) and machine learning to assist users with common inquiries.
 - **Technologies Used:** Python, NLP Libraries (NLTK, spaCy), Machine Learning, Flask
 
 
 ---
+## 🌱 Future Scope
+- More projects will be added as I explore new technologies.
+- Continuous improvement and optimization of existing projects.
+
 
 ## 📁 Project List
 
@@ -42,21 +49,23 @@ To explore these projects:
    ```
 ## 📬 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-UrvilPatel7271-blue?style=for-the-badge&logo=github)](https://github.com/UrvilPatel7271)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/urvil-patel-70014b299/)  
+[![GitHub](https://img.shields.io/badge/GitHub-UrvilPatel7271-blue?style=for-the-badge&logo=github)](https://github.com/uvpatel7271)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/urvil-patel-6995a0320)  
 [![Gmail](https://img.shields.io/badge/Gmail-uvpatel7271@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:uvpatel7271@gmail.com)
 
 
 ---
-❓ Why This Repository?
-This repository is created to showcase my major projects that reflect my learning, skills, and expertise in various technologies. Each project demonstrates:
+## ❓ Why This Repository?
+This repository showcases my major projects that reflect my learning, skills, and expertise in various technologies. Each project demonstrates:
 
-✅ Problem-solving skills
-✅ Practical application of programming concepts
-✅ End-to-end project development
-✅ Exposure to real-world project structures
-✅ Portfolio building for job and internship opportunities
+- ✅ Problem-solving skills
+- ✅ Practical application of programming concepts
+- ✅ End-to-end project development
+- ✅ Exposure to real-world project structures
+- ✅ Portfolio building for job and internship opportunities
+
 ---
+
 🔥 Purpose:
 - To keep all major projects organized in one place.
 - To demonstrate hands-on experience with various programming languages, tools, and frameworks.
@@ -75,6 +84,7 @@ This repository is created to showcase my major projects that reflect my learnin
 
 ## 📝 License
 
-This project is licensed under the **MIT License** - feel free to use, modify, and share it! 😊  
-See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the **MIT License** — feel free to **use**, **modify**, and **share** it! 😊  
+Check the [LICENSE](LICENSE) file for detailed information.
+
 ---
